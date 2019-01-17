@@ -1,0 +1,18 @@
+{
+  "name": "@horyus/t721-companion-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "t721-companion-app - Mobile companion app for offline ticket access",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortimr/t721-companion-app.git"
+  },
+  "author": "Iulian Rotaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortimr/t721-companion-app/issues"
+  },
+  "homepage": "https://github.com/mortimr/t721-companion-app#readme"
+}
