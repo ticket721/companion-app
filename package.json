@@ -26,5 +26,9 @@
         "hooks": {
             "pre-commit": "editorconfig-cli"
         }
+    },
+    "devDependencies": {
+        "merge": ">=1.2.1",
+        "deep-extend": ">=0.5.1"
     }
 }
