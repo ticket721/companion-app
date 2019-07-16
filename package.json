@@ -1,7 +1,7 @@
 {
     "name": "@ticket721/companion-app",
     "private": true,
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "companion-app - Mobile companion app for offline ticket access",
     "main": "index.js",
     "scripts": {
